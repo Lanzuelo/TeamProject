@@ -7,3 +7,4 @@ langchain-openai==0.1.8
 langchain-text-splitters==0.2.0
 openai==1.30.5
 faiss-cpu==1.8.0
+langchain
